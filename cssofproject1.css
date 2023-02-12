@@ -81,6 +81,7 @@ i{
     display: flex;
     flex-direction: column;
     padding-left: 50px;
+    column-gap: 50px;
     background-image: url('DEV1.jpg');
     background-size: cover;
 }
