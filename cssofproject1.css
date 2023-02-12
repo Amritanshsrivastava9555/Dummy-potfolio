@@ -80,8 +80,6 @@ i{
     background-color: aliceblue;
     display: flex;
     flex-direction: column;
-    column-gap: 50px;
-    padding: 40px;
     padding-left: 50px;
     background-image: url('DEV1.jpg');
     background-size: cover;
