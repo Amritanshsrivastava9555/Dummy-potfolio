@@ -80,7 +80,6 @@ i{
     background-color: aliceblue;
     display: flex;
     flex-direction: column;
-    padding-left: 50px;
     background-image: url('DEV1.jpg');
     background-size: cover;
 }
